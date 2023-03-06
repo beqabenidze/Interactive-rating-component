@@ -1,0 +1,24 @@
+.thanks {
+  box-sizing: border-box;
+  padding: 30px;
+  border-radius: 15px;
+  display: grid;
+  place-items: center;
+  text-align: center;
+  background-color: #272a36;
+  width: 100%;
+  max-width: 450px;
+  height: 400px;
+}
+h3 {
+  padding: 5px 15px;
+  border-radius: 20px;
+  width: fit-content;
+  background-color: rgb(77, 77, 77);
+  color: rgb(255, 102, 0);
+}
+h4 {
+  font-size: 25px;
+  color: white;
+  margin: 0px;
+}

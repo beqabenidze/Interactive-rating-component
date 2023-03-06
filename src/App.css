@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Overpass:wght@500&display=swap");
+
+.app {
+  font-family: "Overpass", sans-serif;
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  background-color: hsl(216, 12%, 8%);
+  padding: 0px 20px;
+}
